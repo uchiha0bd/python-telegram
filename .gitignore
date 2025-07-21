@@ -1,0 +1,16 @@
+# Environment files
+.env
+
+# Script files
+*.bat
+*.ps1
+
+# Python files
+__pycache__/
+*.py[cod]
+
+# Data files
+conversations.json
+
+# System files
+.DS_Store
